@@ -24,9 +24,7 @@ Developer Tools:
 Libraries/Frameworks: 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%230db7ed.svg?style=for-the-badge&logo=gcp&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=FFF&style=for-the-badge)
-![Django](https://img.shields.io/badge/django-%233776AB.svg?style=for-the-badge&logo=django&logoColor=white) 
+
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/nikitha-junuthula/](#)
